@@ -96,10 +96,17 @@ Contains:
 
 ---
 
+## 🔗 Download Full Project (with Model)
+
+Due to size limitations on GitHub, the full project with the fine-tuned model is available here:
+
+📦 [Download from Google Drive](https://drive.google.com/drive/folders/1nAtGogrqZcw5F3VJ8UqmY-AQ2aMgpVoq?usp=sharing)
+
 ## 👤 Author
 
-Trinadh Katlagunta\
-Machine Learning Intern (ATG Assignment)
+Trinadh Katlagunta
+B-Tech: CSE(AI & ML)
+R.V.R & J.C College of Engineering
 
 ---
 
