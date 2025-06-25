@@ -102,6 +102,9 @@ Due to size limitations on GitHub, the full project with the fine-tuned model is
 
 📦 [Download from Google Drive](https://drive.google.com/drive/folders/1nAtGogrqZcw5F3VJ8UqmY-AQ2aMgpVoq?usp=sharing)
 
+Note: The model/model_files/ directory is not included in this GitHub repository due to size limitations. Please download the full project with the fine-tuned model from the Google Drive link above.
+
+
 ## 👤 Author
 
 Trinadh Katlagunta\
