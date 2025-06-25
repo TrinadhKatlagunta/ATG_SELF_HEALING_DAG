@@ -105,7 +105,7 @@ Due to size limitations on GitHub, the full project with the fine-tuned model is
 ## 👤 Author
 
 Trinadh Katlagunta
-B-Tech: CSE(AI & ML)
+B-Tech, CSE(AI & ML),
 R.V.R & J.C College of Engineering
 
 ---
