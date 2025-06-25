@@ -1,0 +1,13 @@
+2025-06-24 20:48:26,824 - INFO - Input: The movie was painfully slow and boring.
+2025-06-24 20:48:26,824 - INFO - Predicted: sadness | Confidence: 74.25%
+2025-06-24 20:48:26,824 - INFO - Fallback triggered -> User corrected label
+2025-06-24 20:48:26,824 - INFO - Final Label: sadness
+2025-06-24 20:48:26,824 - INFO - ------------------------------------------------------------
+2025-06-24 20:48:41,531 - INFO - Input: I am very angry because of my brother
+2025-06-24 20:48:41,531 - INFO - Predicted: anger | Confidence: 99.75%
+2025-06-24 20:48:41,531 - INFO - Final Label: anger
+2025-06-24 20:48:41,531 - INFO - ------------------------------------------------------------
+2025-06-24 20:49:14,430 - INFO - Input: i was shocked to see my friend
+2025-06-24 20:49:14,430 - INFO - Predicted: surprise | Confidence: 98.45%
+2025-06-24 20:49:14,430 - INFO - Final Label: surprise
+2025-06-24 20:49:14,430 - INFO - ------------------------------------------------------------
